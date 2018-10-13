@@ -6,8 +6,8 @@ Object Oriented Programming in Java
 
 1.	Constructor challenge:
 
-#•	Create a new class for a Bank Account.
-#•	Create fields for the Account Number, Balance, Customer Name, Email and Phone Number.
+•	Create a new class for a Bank Account.
+•	Create fields for the Account Number, Balance, Customer Name, Email and Phone Number.
 •	Create getters and setters for each field.
 •	Create two additional methods: to allow the customer to deposit the founds (this should increment the balance field) and to allow the customer to withdraw founds (this should deduct from the balance fields but not allow the withdrawal to complete if their founds are insufficient). 
 •	You will want to create various code in the main class (the one created by IntelliJ) to confirm your code is working. Add some System.out.println()’s in the two methods above as well. 
